@@ -17,7 +17,6 @@ public class Ra1ntop {
     private String funFact = "I deploy to production on Fridays and sleep well 😎";
 }
 ```
-```
 
 ## 🛠️ Tech Stack
 
