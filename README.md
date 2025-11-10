@@ -8,14 +8,15 @@
 
 ## 🚀 About Me
 
-```javascript
-const ra1ntop = {
-    location: "Wrocław, Poland 🇵🇱",
-    currentFocus: "Building cool stuff & learning new tech",
-    interests: ["Web Development", "Open Source", "Problem Solving"],
-    askMeAbout: ["Tech", "Code", "Coffee ☕"],
-    funFact: "I debug with console.log and I'm not ashamed!"
-};
+```java
+public class Ra1ntop {
+    private String location = "Wrocław, Poland 🇵🇱";
+    private String currentFocus = "Building scalable Spring applications";
+    private String[] interests = {"Backend Development", "Spring Ecosystem", "Clean Code"};
+    private String[] askMeAbout = {"Java", "Spring Boot", "REST APIs", "Coffee ☕"};
+    private String funFact = "I deploy to production on Fridays and sleep well 😎";
+}
+```
 ```
 
 ## 🛠️ Tech Stack
@@ -29,16 +30,18 @@ const ra1ntop = {
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+
 ### Frameworks & Libraries
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Maven](https://img.shields.io/badge/-Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
@@ -67,8 +70,7 @@ const ra1ntop = {
 <div align="center">
   
 [![GitHub](https://img.shields.io/badge/-@Ra1ntop-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ra1ntop)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrewtravkin03@gmail.com)
 
 </div>
 
