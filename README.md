@@ -18,6 +18,16 @@ public class Ra1ntop {
 }
 ```
 
+## 📫 Let's Connect!
+
+<div align="center">
+  
+[![GitHub](https://img.shields.io/badge/-@Ra1ntop-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ra1ntop)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrewtravkin03@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrii-travkin-1250852b1)
+
+</div>
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -63,15 +73,6 @@ public class Ra1ntop {
 🌱 Learning and exploring new technologies every day  
 💡 Open to collaborate on interesting projects  
 ⚡ Fun fact: Code never lies, comments sometimes do
-
-## 📫 Let's Connect!
-
-<div align="center">
-  
-[![GitHub](https://img.shields.io/badge/-@Ra1ntop-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ra1ntop)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrewtravkin03@gmail.com)
-
-</div>
 
 ---
 
